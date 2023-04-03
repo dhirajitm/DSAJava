@@ -1,8 +1,6 @@
-package datastructures;
+package datastructures.linkedlist;
 
-import datastructures.linkedlist.LinkedList;
-
-public class Main {
+public class LinkedListMain {
     public static void main(String[] args) {
 
         LinkedList myLinkedList = new LinkedList(4);
